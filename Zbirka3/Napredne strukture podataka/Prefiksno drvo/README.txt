@@ -1,0 +1,1 @@
+Neka rjesenja daju TLE. To je problem sa Grader-om.
