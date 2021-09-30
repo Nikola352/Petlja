@@ -1,4 +1,4 @@
-// Jarvis' march
+// Graham Scan
 
 #include <bits/stdc++.h>
 using namespace std;
